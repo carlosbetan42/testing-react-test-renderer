@@ -19,7 +19,7 @@
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test --collectCoverage=true --verbose=true",
+    "test": "react-scripts test --collectCoverage=true",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
